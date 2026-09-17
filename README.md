@@ -36,6 +36,7 @@ Depois disso, use o repositório por consulta, não por leitura linear.
 | `banco-de-ganchos.md` | 25 ganchos verdes prontos + amarelos + vermelhos (filtro) |
 | `formatos.md` | Estrutura exata de Reel, carrossel, Stories, estático |
 | `calendario-editorial.md` | Semana modelo, ciclo mensal, template de peça |
+| `roteiro-video-diagnostico.md` | Roteiro da peça-mãe em vídeo — master 90s, versões A/B/C, corte de 30s |
 
 ### `02-funil/` — como vira venda
 | Arquivo | Para quê |
