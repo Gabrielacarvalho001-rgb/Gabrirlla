@@ -50,6 +50,7 @@ Depois disso, use o repositório por consulta, não por leitura linear.
 | Arquivo | Para quê |
 |---|---|
 | `matriz-anti-cliche.md` | Semáforo + 12 dimensões + os 4 portões finais |
+| `perfil-instagram.md` | Auditoria da vitrine — bio, nome, link, destaques, fixados, grid |
 | `lacunas.md` | Inventário do que falta e decisões pendentes da autora |
 
 ---
