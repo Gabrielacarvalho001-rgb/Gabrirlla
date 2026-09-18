@@ -51,6 +51,7 @@ Depois disso, use o repositório por consulta, não por leitura linear.
 |---|---|
 | `matriz-anti-cliche.md` | Semáforo + 12 dimensões + os 4 portões finais |
 | `perfil-instagram.md` | Auditoria da vitrine — bio, nome, link, destaques, fixados, grid |
+| `copy-perfis.md` | Texto final de Instagram, Threads e Facebook — pronto para colar |
 | `lacunas.md` | Inventário do que falta e decisões pendentes da autora |
 
 ---
