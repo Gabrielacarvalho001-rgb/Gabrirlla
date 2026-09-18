@@ -148,13 +148,13 @@ ATUAL      claude.ai/code/artifact/33014889-b190-…
 Isso é um link interno de artefato, ilegível, sem marca e sem promessa. É o único clique
 disponível no perfil e ele não vende nada.
 
-**Substituir por, em ordem de preferência:**
+**Destino decidido:** `https://www.amazon.com.br/dp/[ASIN]` — `DECISÃO DA AUTORA, 18/09/2026.`
 
-1. **Link direto da Amazon** (ou da Editora Novo Arco) — se o objetivo é venda agora.
-   Um clique, uma ação. Menos atrito é mais conversão.
-2. **Agregador de 3 links no máximo**, se houver mais de um destino:
-   `Comprar o livro` · `Ler o primeiro capítulo` · `Onde me acompanhar`.
-   Três, não sete. Cada link extra dilui o primeiro.
+Link direto da Amazon, um clique, uma ação. Menos atrito é mais conversão.
+Formato limpo e procedimento de extração do ASIN em `03-operacao/copy-perfis.md` §1.4.
+
+Agregador fica descartado por ora: com um único produto à venda, cada tela intermediária
+entre o clique e a compra é atrito sem contrapartida.
 
 **Regra permanente:** o link do perfil aponta sempre para o destino de maior valor comercial
 naquela semana. Não é slot de experimento.
@@ -292,7 +292,7 @@ conteúdo, e a investigação volta para `01-conteudo/banco-de-ganchos.md`.
 
 ## 6. LACUNAS
 
-- `[LACUNA]` Destino final do link da bio — Amazon, editora ou agregador? Sem isso, §3.4 fica parado.
+- ~~`[LACUNA]` Destino final do link da bio~~ → **resolvido 18/09/2026: Amazon.** Falta só o ASIN (§3.4).
 - `[LACUNA]` Insights do post de 40,7 mil views: quantos seguidores ele trouxe? Define o custo real de arquivar.
 - `[LACUNA]` Existe post-manifesto publicado? Se não, o slot fixado 1 fica vazio até ser produzido.
 - `[LACUNA]` Cliques no link e salvamentos por post — baseline ausente em §5.

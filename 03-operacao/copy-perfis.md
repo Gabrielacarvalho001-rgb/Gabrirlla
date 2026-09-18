@@ -35,18 +35,28 @@ Onde ler o primeiro confronto ↓
 ```
 `129 caracteres.` Um emoji só. A seta é parte do texto, não enfeite: ela aponta para o link.
 
-### 1.4 LINK
+### 1.4 LINK — decidido: **Amazon**
 ```
-[COLAR AQUI O LINK DE COMPRA]
+https://www.amazon.com.br/dp/[ASIN]
 ```
-Ordem de preferência: **1.** Amazon · **2.** página da Editora Novo Arco ·
-**3.** agregador com no máximo 3 destinos, nesta ordem e com estes nomes:
-```
-Comprar o livro
-Ler o primeiro capítulo
-Onde me acompanhar
-```
-Três. Cada link além do terceiro dilui o primeiro.
+
+**Como montar o link limpo — 1 minuto**
+
+1. Abra a página do livro na Amazon.
+2. Copie o endereço. Ele vem sujo, assim:
+   `amazon.com.br/Combo-do-Fracasso/dp/B0XXXXXXXX/ref=sr_1_1?crid=2M…&qid=17…&sr=8-1`
+3. Apague **tudo** depois do código de 10 caracteres que vem logo após `/dp/`.
+   Sobra: `https://www.amazon.com.br/dp/B0XXXXXXXX`
+
+**Por que limpar:** o rabo `ref=` / `qid=` carrega dados da sua sessão de busca, quebra em
+alguns navegadores, deixa o link feio na pré-visualização e não mede nada para você.
+O `/dp/` é estável e funciona em qualquer lugar — bio, Stories, WhatsApp, e-mail.
+
+**Sobre o botão "Compartilhar" do app:** ele gera `amzn.to/…`. Funciona, mas prefira o `/dp/`.
+Encurtador de terceiro pode sair do ar e você perde o único clique do perfil sem ser avisada.
+
+**Regra permanente:** o link aponta para o destino de maior valor comercial da semana.
+Não é slot de experimento.
 
 ### 1.5 DESTAQUES — nomes exatos, nesta ordem de exibição
 ```
@@ -148,8 +158,14 @@ bloqueiam nada dos sete primeiros.
 
 ---
 
-## 5. O ÚNICO BLOQUEIO
+## 5. ESTADO DA DECISÃO DO LINK
 
-`[LACUNA]` **Link de compra.** Busca pública não localizou página de produto da obra na Amazon
-nem no site da editora (verificado em 18/09/2026). Sem esse endereço, o item 1 — o de maior
-impacto da lista inteira — fica parado, e os outros seis viram maquiagem numa vitrine sem porta.
+**Destino: decidido — Amazon.** `DECISÃO DA AUTORA, 18/09/2026.`
+
+Falta só o ASIN, o código de 10 caracteres da página do produto. Ele não pode ser obtido daqui:
+`amazon.com.br` está bloqueado pelo proxy de rede desta sessão, e a página do livro não aparece
+em busca pública indexada (verificado em 18/09/2026, duas consultas). É um minuto de celular seu
+e o item 1 da lista está fechado.
+
+Com o ASIN em mãos, os 18 minutos de execução da §4 rodam do começo ao fim sem mais nenhum
+bloqueio.
