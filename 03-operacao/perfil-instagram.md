@@ -203,10 +203,12 @@ Antecipando a objeção: *é o post de maior alcance do perfil.* Sim — e é ex
 ele é caro. Fixado, ele não é um post: é a declaração de posicionamento da marca na vitrine.
 Ele promete conforto. O livro cobra confronto. Manter é vender ingresso para o filme errado.
 
-**Recomendação:** desafixar e arquivar. `RECOMENDAÇÃO`, não dado — não tenho os insights de
-quantos seguidores vieram dele. Se a análise mostrar que ele trouxe a maioria da base, o custo
-de arquivar é real; nesse caso, desafixe e mantenha no grid, mas não o reproduza.
-O que não se faz em nenhum cenário é produzir outro igual.
+**Recomendação revisada em 18/09/2026, com dados:** **desafixar, NÃO arquivar, refazer o ativo.**
+
+Os insights chegaram e mudaram a conclusão anterior (que era arquivar): a peça tem 469
+salvamentos e 283 compartilhamentos — o vídeo retém. O problema é a frase sobreposta, não o
+ativo. E o alcance não foi orgânico: o Reel foi impulsionado em 09/09/2026.
+Análise completa em `02-funil/analise-reel-impulsionado.md`.
 
 ### 3.7 GRID — protocolo de limpeza dos 82 posts
 
@@ -293,6 +295,9 @@ conteúdo, e a investigação volta para `01-conteudo/banco-de-ganchos.md`.
 ## 6. LACUNAS
 
 - ~~`[LACUNA]` Destino final do link da bio~~ → **resolvido 18/09/2026: Amazon.** Falta só o ASIN (§3.4).
-- `[LACUNA]` Insights do post de 40,7 mil views: quantos seguidores ele trouxe? Define o custo real de arquivar.
+- ~~`[LACUNA]` Insights do post de 40,7 mil views~~ → **resolvido 18/09/2026: 227 seguidores sobre
+  30.714 de alcance (0,74%), orgânico + pago somados.** Ver `02-funil/analise-reel-impulsionado.md`.
+- `[LACUNA]` Valor gasto no impulsionamento de 09/09 e resultado isolado da campanha — sem isso
+  não existe custo por resultado nem decisão sobre repetir.
 - `[LACUNA]` Existe post-manifesto publicado? Se não, o slot fixado 1 fica vazio até ser produzido.
-- `[LACUNA]` Cliques no link e salvamentos por post — baseline ausente em §5.
+- `[LACUNA]` Cliques no link — o painel do Reel não registrou nenhum. Baseline de salvamento já existe: 1,53% sobre alcance.

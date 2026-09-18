@@ -45,6 +45,7 @@ Depois disso, use o repositório por consulta, não por leitura linear.
 | `trafego-pago.md` | Hierarquia de campanhas, template de anúncio, teste A/B |
 | `prova-social.md` | Estratégia ética + campanha "O Diário de quem leu" |
 | `metricas.md` | Métricas por etapa, as 3 que importam, métricas de vaidade |
+| `analise-reel-impulsionado.md` | Primeira peça com dados reais — diagnóstico e baseline |
 
 ### `03-operacao/` — como decidir
 | Arquivo | Para quê |
